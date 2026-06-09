@@ -188,7 +188,7 @@ Clone the repository:
 
 ```bash
 git clone GitHub: https://github.com/amritanshu009
-cd Stress-Model-Analysis
+cd Multi-model-stress-analysis
 ```
 
 Create a virtual environment:
@@ -282,17 +282,6 @@ By detecting stress indicators early, the system can help promote mental health 
 ## Disclaimer
 
 This project is created for academic and research purposes. It is not intended to replace professional medical or psychological diagnosis. The system only provides stress prediction based on machine learning models and should be used as a supportive awareness tool.
-
-## Authors
-
-* Amritanshu Shiwanshi
-* Nakka Satya Dinesh
-
-## Guide
-
-Dr. M. Murali
-Professor, Department of Computing Technologies
-SRM Institute of Science and Technology
 
 ## License
 
