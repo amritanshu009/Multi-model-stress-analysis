@@ -1,0 +1,12 @@
+{
+    "fusion_weights": {
+        "text": 0.35,
+        "audio": 0.35,
+        "video": 0.3
+    },
+    "classes": [
+        "Low",
+        "Moderate",
+        "High"
+    ]
+}

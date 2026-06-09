@@ -1,0 +1,31 @@
+{
+  "sr": 16000,
+  "window_sec": 1.0,
+  "features": "94 (mfcc mean40 + mfcc std40 + chroma mean12 + zcr1 + rms1)",
+  "label_map": {
+    "Low": [
+      "01",
+      "02"
+    ],
+    "Moderate": [
+      "03",
+      "04"
+    ],
+    "High": [
+      "05",
+      "06",
+      "07",
+      "08"
+    ]
+  },
+  "classes_": [
+    "High",
+    "Low",
+    "Moderate"
+  ],
+  "label_counts": {
+    "Low": 576,
+    "Moderate": 768,
+    "High": 1536
+  }
+}

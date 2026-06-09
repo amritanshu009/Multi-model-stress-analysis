@@ -1,0 +1,9 @@
+flask>=2.3
+numpy
+librosa
+joblib
+scikit-learn
+torch
+torchvision
+opencv-python
+Pillow

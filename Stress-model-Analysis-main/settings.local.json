@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"C:\\\\Users\\\\nsdin\\\\OneDrive\\\\Desktop\\\\stress model analysis\\\\webapp\\\\templates\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\nsdin\\\\OneDrive\\\\Desktop\\\\stress model analysis\\\\webapp\\\\static\\\\css\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\nsdin\\\\OneDrive\\\\Desktop\\\\stress model analysis\\\\webapp\\\\static\\\\js\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\nsdin\\\\OneDrive\\\\Desktop\\\\stress model analysis\\\\webapp\\\\uploads\")"
+    ]
+  }
+}
