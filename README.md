@@ -187,7 +187,7 @@ Stress-Analysis-Using-Multimodal-Evaluation/
 Clone the repository:
 
 ```bash
-git clone https://github.com/NS-Dinesh/Stress-Model-Analysis.git
+git clone GitHub: https://github.com/amritanshu009
 cd Stress-Model-Analysis
 ```
 
